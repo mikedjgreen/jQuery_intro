@@ -6,6 +6,15 @@ Core uncompressed 3.5.1
 
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
 
+## SWAPI
+Star Wars API used is now:
+[SWAPI](https:://ci-swapi.herokuapp.com/api)
+
+## xhr
+Allows us to call external API data from our javascript app, using object XMLHttpRequest.
+var xhr = new XMLHttpRequest();
+
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
